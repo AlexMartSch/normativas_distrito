@@ -50,6 +50,6 @@
 
 ## 👨‍🎤 Normativas Staff
 
-* [📑 Jerarquía Convencional](normativas-staff/jerarquia-convencional.md)
+* [📑 General Staff](normativas-staff/jerarquia-convencional.md)
 * [📑 Estructura de la directiva](normativas-staff/estructura-de-la-directiva.md)
 * [📑 Estatutos del Staff](normativas-staff/estatutos-del-staff.md)

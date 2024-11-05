@@ -1,24 +1,20 @@
 # 📑 Estructura de la directiva
 
-## Artículo 1. La jerarquización de NexHUB está constituida por:
+## Artículo 1. La jerarquización de Distrito está constituida por:
 
 * Director/es (Impares)
-  * Director de finanzas
-  * Director de marketing
-  * Director de mantenimiento
-  * Director de personal
 * Administración
 * Jefe de Moderación
 * Moderadores
 * Roles Anexados
 
-### Artículo 1.1.&#x20;
+### Artículo 1.1.
 
 Los directores pueden ejercer otros cargos relacionados estrictamente con la dirección, esto quiere decir que el director podrá tener el área de finanzas y marketing, pero nunca podrá, a menos que sea estrictamente necesario y a falta de personal activo, pertenecer a un bloque jerárquico inferior.
 
 ## Artículo 2. Sobre las funciones:
 
-### **La Dirección de finanzas**&#x20;
+### **La Dirección de finanzas**
 
 Velará por la estabilidad económica del servidor, cumpliendo su labor obteniendo crédito y reduciendo gastos, como gestionar las compras/ventas ocurridas en el servidor.
 
@@ -36,7 +32,7 @@ Quienes posean este cargo deberán entregar el plan de trabajo adecuado a los bl
 
 Quien actuará con el fin de mejorar la calidad de todo el equipo en cuestiones técnicas, éticas y morales, ayudando a conseguir la meta y objetivos propuestos para la convivencia de todo el equipo. Su función esencial es la contratación de todos los cargos faltantes que correspondan a administración, jefe/s de cargos, y en caso de ser estrictamente necesario y a falta de un jefe/s de moderadores, también podrá contratar nuevo personal de moderación en conjunto con las decisiones tomadas con el personal de administración (en caso de existir personal vigente).
 
-### **Administración**&#x20;
+### **Administración**
 
 Tendrá participación activa en la toma de decisiones favorables y fomentarán las tareas administrativas para complementar, en conjunto con el Director de personal, los roles anexos tales como encargados de facciones u otros que se encuentren en esa área. Sus tareas principales serán:
 
