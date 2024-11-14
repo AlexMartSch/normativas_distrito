@@ -16,7 +16,9 @@ Los miembros del directorio constituirán un plan efectivo para el funcionamient
 
 Los estatutos ya modificados podrán ser revaluados en un plazo posterior a una semana a través de una petición formal y con argumentos que justifiquen el nuevo cambio o revisión por parte de la directiva.
 
-## Articulo 4. El personal de Distrito tiene como objetivo:
+## Articulo 4.&#x20;
+
+El personal de Distrito tiene como objetivo:
 
 * Representar las diversas necesidades tanto del equipo como de los jugadores/as.
 * Promover el buen comportamiento entre compañeros y la comunidad.

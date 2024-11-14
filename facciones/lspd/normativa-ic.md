@@ -1,4 +1,4 @@
-# 👮‍♂️ Normatica IC
+# 👮 Normativa IC
 
 > ## <mark style="color:blue;">\[ I : Referente a civiles ]</mark>
 

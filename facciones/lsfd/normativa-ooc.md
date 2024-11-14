@@ -1,4 +1,4 @@
-# Normativa OOC
+# 👩‍🚒 Normativa OOC
 
 ## 1. Normativa fuera de personaje
 
