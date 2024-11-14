@@ -1,13 +1,11 @@
 # 🪄 Conceptos de roleplay
 
-## Conceptos de rol
-
 ### **General**
 
 * **SS (Screenshot):** Se refiere a la captura de pantalla o pantallazo a algo específico.
 * **Misisipi:** Se le llama al conteo en segundos, por ejemplo, cinco Misisipi serían cinco segundos.
 * **Report:** Realizar un reporte de un jugador, anexando evidencias y los motivos.
-* 'Diositos': Concepto que hace referencia a los Staff del servidor de manera IC
+* 'Dioses, alcaldia o gobernación': Concepto que hace referencia a los Staff del servidor de manera IC
 * PM / DM (Private Message / Direct Message): Concepto referido a enviar un mensaje privado a un destinatario.
 * **'Hablar en chino'**: Significa hablar fuera de la interpretación del personaje y hablar como el jugador quien controla el mismo, una conducta prohibida.
 
@@ -17,7 +15,7 @@
 * **Out of Character (OOC):** Todas las acciones que ocurren se hablan o realizan de forma ajena a nuestro personaje. Es todo lo que ocurre en la vida real y/o fuera del rol. (El mal uso de este canal será sancionado)
 * **Pepe:** Coloquialmente dicho por jugadores avanzado a quienes son nuevos en el juego o tienen conductas anti-rol.
 * **Character Kill (CK):** Muerte / perdida del personaje.
-* **Revenge Kill (RK)**: Muerte de venganza&#x20;
+* **Revenge Kill (RK)**: Muerte de venganza
 * **Player Kill (PK)**: Inconsciencia de tu personaje
 * **Player Kill Total (PKT)**: Inconsciencia temporal de tu personaje (últimos 15m)
 

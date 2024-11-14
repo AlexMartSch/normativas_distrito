@@ -1,3 +1,9 @@
+---
+description: >-
+  Distrito Roleplay es un servidor diseñado para ofrecer una experiencia de
+  juego inmersiva y entretenida a través del rol serio.
+---
+
 # ✒️ INTRODUCCIÓN
 
 **A.** Toda la documentación sobre Árkan será respaldada en nuestro Discord, por lo que siempre estará disponible en su última versión.
@@ -11,4 +17,3 @@
 {% hint style="info" %}
 Las normativas se pueden modificar con 24 horas de aviso anticipado, luego de esto entran en vigencia y se agregan como normativa explícita conocida por toda la comunidad
 {% endhint %}
-

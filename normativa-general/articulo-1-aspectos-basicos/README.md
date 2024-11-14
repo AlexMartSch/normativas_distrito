@@ -18,7 +18,6 @@ Se da por entendido que cualquier rol donde se mienta sobre la cantidad de miemb
 Sacar un arma, para apuntar a otra persona, siempre debe ir acompañado con una llamada a policías (/entorno) PREVIA, por parte de la persona que apunta, en caso de haber “transeúnte” (zonas con alto nivel de personas por rol de entorno) cerca. Se le debe dar un tiempo suficiente a la persona que se apunta para que intente acatar tu petición antes de disparar.
 {% endhint %}
 
-* ' /a ': Es el canal de ayuda, se usa resolver dudas mecánicas del juego.
 * ' /report ': Es el canal de ayuda OOC para reportar jugadores maliciosos u cualquier tipo de escenas que sea representativa para una resolución del personal staff.
 * Chat local u OOC: Canal de charla predeterminada a 35 metros en área, para aclaraciones con jugadores cercanos sobre el rol que se está llevando o se va a llevar.
 

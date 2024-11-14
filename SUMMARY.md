@@ -34,22 +34,27 @@
   * [💸 Atracos](normativa-general/articulo-5-actos-agresivos/atracos.md)
 * [📙 Artículo 6 - Sanciones](normativa-general/articulo-6-sanciones.md)
 
-## 📘 Normativa Policial
+## 🚔 LSPD
 
-* [Trabajo en progreso...](normativa-policial/trabajo-en-progreso....md)
+* [👮‍♂️ Normatica IC](lspd/normatica-ic.md)
+* [Normativa OOC](lspd/normativa-ooc.md)
 
-## 🏥 NORMATIVA EMS
+## 🚑 EMS
 
-* [🙆 Normativas IC](normativa-ems/normativas-ic.md)
-* [👩‍⚕️ Normativas OOC](normativa-ems/normativas-ooc.md)
+* [👩‍⚕️ Normativa IC](ems/normativa-ic.md)
+* [Normativa OOC](ems/normativa-ooc.md)
 
-## 🚗 Normativa Mecánicos
+## 🚒 LSFD
 
-* [🙆 Normativa IC](normativa-mecanicos/normativa-ic.md)
-* [👨‍🔧 Normativa OOC](normativa-mecanicos/normativa-ooc.md)
+* [🧑‍🚒 Normativa IC](lsfd/normativa-ic.md)
+* [Normativa OOC](lsfd/normativa-ooc.md)
 
-## 👨‍🎤 Normativas Staff
+## 🏢 Arcadius
 
-* [📑 General Staff](normativas-staff/jerarquia-convencional.md)
+* [🤵‍♂️ Normativa OOC](arcadius/normativa-ooc.md)
+
+## ⚖️ Normativas Staff
+
+* [📑 General Staff](normativas-staff/general-staff.md)
 * [📑 Estructura de la directiva](normativas-staff/estructura-de-la-directiva.md)
-* [📑 Estatutos del Staff](normativas-staff/estatutos-del-staff.md)
+* [📑 Estatus del staff](normativas-staff/estatus-del-staff.md)
