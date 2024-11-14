@@ -1,7 +1,5 @@
 # 🤹 Deberes del jugador
 
-
-
 {% hint style="warning" %}
 El uso de bugs, glitch's o abuso de mecánicas de juego será castigado con SANCIÓN PERMANENTE. Si usted reporta un bug, será recompensado.
 
@@ -11,20 +9,14 @@ El uso de bugs, glitch's o abuso de mecánicas de juego será castigado con SANC
 
 ## Deberes básicos
 
-* **NOMBRES IC**: Los nombres de su integridad (identificación) deben ser verídicos, tanto para nombre y apellido. Es decir, no pueden ser insultantes / troll bajo ninguna circunstancia.\
-
-* **MICRÓFONO Y AUDÍFONOS**: Es obligación contar con un micrófono y audífonos y que estos sean funcionales, pues la esencial del rol es la voz de tu personaje y que puedas escuchar a los demás. Con esto, significa que no puedes interpretar a un sordo/mudo como caracterización.\
-
+* **NOMBRES IC**: Los nombres de su integridad (identificación) deben ser verídicos, tanto para nombre y apellido. Es decir, no pueden ser insultantes / troll bajo ninguna circunstancia.\\
+* **MICRÓFONO Y AUDÍFONOS**: Es obligación contar con un micrófono y audífonos y que estos sean funcionales, pues la esencial del rol es la voz de tu personaje y que puedas escuchar a los demás. Con esto, significa que no puedes interpretar a un sordo/mudo como caracterización.\\
 * **VALORAR VIDA:** Debes tener en cuenta que estás simulando una vida real, por lo tanto, hay que tener siempre en cuenta que lo más importante es valorar tu vida, Por ejemplo: Si te apuntan con un arma no debes ir a golpear a la persona que te está apuntando porque te puede disparar y matar. Es buscar siempre la supervivencia de tu personaje por encima de cualquier cosa.\
   \
-  El equipo administrativo NO revivirá a ningún jugador si no es por las siguientes razones: ANTI-ROL, BUG (justificado) o por incumplimiento de la normativa por parte de un tercero al afectado o afectados directamente de ese incumplimiento mismo.\
-
-* **ACCIÓN-REACCIÓN:** Recuerda que el servidor está basado en una ciudad ficticia, por ende, la policía puede actuar de acuerdo a la forma en que tú actúas. Basándose en la normativa interna de la POLICÍA, tanto como otras organizaciones del servidor.\
-
-* **RESPETO:** Cualquier insulto o falta de respeto (OOC), ya sea por chat de voz, chats de texto en el servidor o Discord, será inmediatamente sancionado.\
-
-* **CRÍTICA:** Sin fin constructivo o mensajes tóxicos no son bienvenidos en esta comunidad y serán advertidos previamente y en caso de reincidencia será sancionado.\
-
+  El equipo administrativo NO revivirá a ningún jugador si no es por las siguientes razones: ANTI-ROL, BUG (justificado) o por incumplimiento de la normativa por parte de un tercero al afectado o afectados directamente de ese incumplimiento mismo.\\
+* **ACCIÓN-REACCIÓN:** Recuerda que el servidor está basado en una ciudad ficticia, por ende, la policía puede actuar de acuerdo a la forma en que tú actúas. Basándose en la normativa interna de la POLICÍA, tanto como otras organizaciones del servidor.\\
+* **RESPETO:** Cualquier insulto o falta de respeto (OOC), ya sea por chat de voz, chats de texto en el servidor o Discord, será inmediatamente sancionado.\\
+* **CRÍTICA:** Sin fin constructivo o mensajes tóxicos no son bienvenidos en esta comunidad y serán advertidos previamente y en caso de reincidencia será sancionado.\\
 *   **INTERPRETACIÓN DE PERSONAJE**: En rol debes tener en cuenta la historia, costumbres, personalidad, trabajo, etc. de tu personaje y basándonos en esos aspectos, interactuar con los demás (meternos en la piel del personaje).\
     \
     Ejemplos de interpretación de personaje:
@@ -63,10 +55,12 @@ Este tipo de conductas queda totalmente prohibido dentro del servidor.
 
 ### Sobre el chat de juego
 
-El chat OOC (texto) se utiliza únicamente para aclaraciones de las situaciones que estemos viviendo en el rol en ese momento.&#x20;
+El chat OOC (texto) se utiliza únicamente para aclaraciones de las situaciones que estemos viviendo en el rol en ese momento.
 
 Queda terminantemente prohibido utilizar el chat para menospreciar los roles ajenos y/o realizar comentarios sobre situaciones ocurridas en cuanto el rol respecte.
 
-\
+### AFK
 
+Todo usuario que permanezca inactivo en el juego (AFK) se considerará vulnerable ante las acciones de otros jugadores, lo que puede llevar a situaciones como robos o secuestros si no se encuentra atento a su entorno. Estar AFK no otorga ninguna protección contra interacciones de otros jugadores; por el contrario, te expone a las consecuencias del rol.
 
+**Nota**: Si dejas a tu personaje inactivo y este sufre consecuencias graves, como morir de hambre, serás responsable de resolver la situación a través del rol, involucrando a los servicios de emergencia si es necesario.

@@ -6,8 +6,6 @@ description: >-
 
 # 🧟‍♂️ Tipos de CK
 
-
-
 ## **CK policial**
 
 * Cuando un delincuente tiene un historial criminal extenso o se cometió un delito grave, se puede solicitar cadena perpetua, con lo cual tu personaje muere completamente.
@@ -19,8 +17,6 @@ description: >-
 ## **CK Administrativo**
 
 * Usted podrá solicitar a la administración si desea tener un nuevo personaje.
-
-
 
 ### Solicitud de CK Administrativo
 
@@ -34,7 +30,4 @@ description: >-
 
 ## **CK Financiero**
 
-* Cuando el personaje tiene §-2.000.000 millones en su cuenta bancaria durante 5 días consecutivos, el personaje se EXILIA del país, pero podría volver solo sí, existe algún segundo personaje que, relacionado y basado en su historia de ingreso, tengan algún parentesco.
-
-
-
+* Cuando el personaje tiene $-1.000.000 millon en su cuenta bancaria durante 5 días consecutivos, el personaje se EXILIA del país, pero podría volver solo sí, existe algún segundo personaje que, relacionado y basado en su historia de ingreso, tengan algún parentesco.

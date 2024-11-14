@@ -1,6 +1,11 @@
+---
+description: >-
+  Para garantizar el buen funcionamiento y la calidad de la experiencia en el
+  servidor, es fundamental que todos los miembros de la facción de mecánicos
+  cumplan con ciertos requisitos.
+---
+
 # 🚘 Facción Mecánicos
-
-
 
 1. **Horas especuladas**: Cada mecánico debe cumplir con un mínimo de 8 horas de trabajo a la semana. Aproximadamente 1.5 horas diarias ejerciendo como mecánico.
 

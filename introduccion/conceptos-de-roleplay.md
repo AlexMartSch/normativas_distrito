@@ -5,7 +5,7 @@
 * **SS (Screenshot):** Se refiere a la captura de pantalla o pantallazo a algo específico.
 * **Misisipi:** Se le llama al conteo en segundos, por ejemplo, cinco Misisipi serían cinco segundos.
 * **Report:** Realizar un reporte de un jugador, anexando evidencias y los motivos.
-* 'Dioses, alcaldia o gobernación': Concepto que hace referencia a los Staff del servidor de manera IC
+* **'Dioses, gobernación'**: Concepto que hace referencia a los Staff del servidor de manera IC
 * PM / DM (Private Message / Direct Message): Concepto referido a enviar un mensaje privado a un destinatario.
 * **'Hablar en chino'**: Significa hablar fuera de la interpretación del personaje y hablar como el jugador quien controla el mismo, una conducta prohibida.
 
@@ -57,3 +57,15 @@ Toda acción que en la vida real son imposibles de realizar, pero las mecánicas
 ### DeathMatch (DM)
 
 Queda prohibido matar a un jugador sin una razón válida, justificada o sin un rol previo.
+
+
+
+### Fair Play
+
+Se considera el realizar acciones de forma justa y sana. Se debe poseer una actitud no competitiva y de respeto. Está prohibido realizar acciones forzadas con el objetivo de ganar.
+
+Ejemplos:
+
+* Abusar de bugs o animaciones para beneficiarse, ya sea por huida o ganar algún rol.
+* Aprovecharse de desconexiones o mal acceso a la red, para evitar ciertos roles (huidas).
+* Repetir estrategias en actos ilegales o viceversa para beneficiarse _(consecutivamente en el mismo rol, esta debe variar)_.
