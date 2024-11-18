@@ -4,10 +4,15 @@
 
 **Se deberá pagar de manera ic el siguiente monto según el tipo de local:**
 
-* Restaurantes: $250.000
-* Locales nocturnos: $250.000
-* Mecánicos: $500.000
-* Strip clubs: $500.000
+* Restaurantes: $500.000
+* Locales nocturnos: $500.000
+* Mecánicos: $750.000
+* Strip clubs: $500.000\
+
+
+{% hint style="info" %}
+Los mecánicos podrán optar a un préstamo de $250.000, el cual deberán pagar durante 7 semanas y con %10 de interés. correspondiendo a la suma de $51.371 x semana.
+{% endhint %}
 
 ### Representante legal
 
