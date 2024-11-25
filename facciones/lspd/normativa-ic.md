@@ -1,5 +1,27 @@
 # 👮 Normativa IC
 
+Todo postulante y/u oficial ya parte de la institución en este servidor, debe de **estrictamente** tener en claro las siguientes sanciones/advertencias que se les podrá otorgar participando activamente de la facción policial:
+
+1. Uso erróneo de la tableta policial (Aplica de Oficial 1ero en adelante).
+2. Saturación de la radio de manera abusiva.
+3. No responde tanto la radio como el blipper.
+4. Leer mal los derechos (Aplica de Oficial 1ero en adelante).
+5. Utilización incorrecta o nula del uniforme policial.
+6. Negarse a tomar denuncias.
+7. Auto asignarse a códigos uno, sin el permiso de Central.
+8. No respetar cadena de mando.
+9. Negar derechos a detenidos/arrestados.
+10. Fallas generales a los protocolos establecidos.
+11. Abuso de poder físico o psicológico contra civiles, detenidos o arrestados.
+12. Mala utilización de la alerta policial.
+13. Insultos, amenazas o laceraciones físicas contra otros oficiales.
+14. Tomarse atribuciones no correspondientes a su rango.
+15. Cualquier acto de corrupción.
+
+{% hint style="info" %}
+Recordar que todo esto son sanciones IC para los jugadores que sean parte de la LSPD dentro del servidor y la mención de alguna de estas es para conocimiento publico, no se debe de hacer uso de alguno de estos puntos para reportes de manera OOC.
+{% endhint %}
+
 > ## <mark style="color:blue;">\[ I : Referente a civiles ]</mark>
 
 1. El oficial siempre velará por el bien de la ciudadanía y no la degradación y/o humillación del mismo, esto incluyendo insultos o faltas de respeto.
