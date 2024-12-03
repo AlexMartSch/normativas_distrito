@@ -10,6 +10,9 @@
 
 * LSFD: Los Santos Fire Department, institución responsable de la gestión y operación de servicios de emergencia y rescate en el Estado.
 * Vehículo Operativo: Vehículos asignados al LSFD equipados para responder a emergencias y realizar rescates.
+* Personal del LSFD: Miembros del LSFD, incluyendo bomberos, oficiales, paramédicos y personal administrativo.
+
+1.4 Canales de comunicación: Los canales de comunicación oficiales para el personal del LSFD son las radios, teléfonos y aplicaciones especificas designadas por el departamento. Se establecerán protocolos para la comunicación efectiva durante operaciones de emergencia. &#x20;
 
 ## 2. Derecho y obligación de los ciudadanos
 
@@ -33,7 +36,7 @@
 
 3.4 Neutralidad de la LSFD: El LSFD es un cuerpo neutral, y en consecuencia no apoyará ningún bando ni mostrará preferencias por ningún tipo de civil.
 
-3.5 Jerarquía: el LSFD está compuesto por Jefes, Oficiales y miembros del batallón asignados, y en todo momento se deberá respetar esta jerarquía.
+3.5 Jerarquía: El LSFD está compuesto por Comandante en jefe, Comandante, Subcomandante, Oficiales y miembros del batallón asignados, y en todo momento se deberá respetar esta jerarquía.
 
 ## 4. Normas de servicio
 
@@ -45,19 +48,23 @@
 
 4.4 Justificar Inasistencia al servicio: Cuando un bombero no pueda acudir a su trabajo durante un periodo superior a 2 a 4 días, deberá comunicar a la dirección el porqué de su ausencia. En caso de que este no se notifique y el periodo de inactividad aumente, el bombero podrá ser degradado o despedido.
 
-4.5 Uso de vehículo institucional: Queda totalmente prohibido el uso del vehículo privado durante la jornada de trabajo. Si se detecta que algún bombero lo usa, será sancionado.
+4.5 Horario mínimo obligatorio: Cada miembro deberá cumplir al menos 6 horas semanales de servicio. El incumplimiento injustificado será evaluado y podría generar sanciones.
 
-4.6 Prohibición de Armamento: El bombero no puede utilizar ningún tipo de armamento dentro del servicio ni portar armas.
+4.6 Contrato de servicio: Todo miembro del LSFD deberá firmar un contrato de servicio con la LSFD, que incluirá una copia de la firma del Comandante en jefe y una copia de la firma del integrante. Este contrato estará disponible en el portal de asistencia y deberá ser renovado cada 6 meses.&#x20;
 
-4.7 Protección del personal en servicio: Todo bombero en servicio gozará de protección garantizada por la institución.
+4.7 Beneficios: Todo integrante del LSFD tiene derecho a recibir los siguientes beneficios: Bonos, Días libres y vacaciones. En este caso de que una vacación dure mas de 30 días, se deberá llevar a cabo una reunión extraordinaria y pedirle al solicitante su renuncia para abrir cupo, con la posibilidad de retorno siempre que este disponible.
 
-4.8 Abandono del departamento de bomberos en servicio: Un bombero solo podrá abandonar el departamento cuando se deba acudir a una alerta, patrullaje o en caso excepcional tanto para comprar colación o permiso de algún rango superior (Jefes hasta Capitanes). Abandonar el departamento estando en servicio sin un motivo de peso, será sancionado.
+4.8 El uso de vehículos institucionales esta prohibido para actividades ajenas al servicio. Sin embargo, su uso podrá ser autorizado por un superior en situaciones justificadas. Cualquier uso indebido sin autorización será sancionado.&#x20;
 
-4.9 Respeto de normas de circulación: Durante la jornada de trabajo se deberá respetar las normas de circulación en todo momento. El uso de las sirenas (solo en caso de aviso o emergencia) exime del respeto a estas, siempre y cuando no se ponga en riesgo y/o peligro a la ciudadanía. En caso de que se incumplan las normativas de circulación, el coste de multas será sufragado por el bombero; en caso o momento el LSFD se hará cargo de las Multas.
+4.9 Prohibición de armamento: El bombero no puede utilizar ningún tipo de armamento dentro del servicio ni portar armas.&#x20;
 
-4.10  Traslado de heridos: El Traslado de heridos al hospital deberá realizarlo el equipo de paramédicos designado, en caso de que no esté presente podrá hacerlo el equipo de combate.
+4.10 Protección del personal en servicio: Todo bombero en servicio gozara de protección garantizada por la institución.&#x20;
 
-4.11 Vehículos Operativos: El cuerpo de LSFD dispone de vehículos disponibles y listos para el servicio en el estacionamiento del departamento, Estos incluyen al Camión de bomberos como principal (Seagrave Commander I y II), camioneta de emergencia (Bravado Bison S Brush Truck) designada para oficiales y paramédicos, y otros vehículos proyectados como camión de bomberos con escalera mecánica y helicóptero de emergencia.
+4.11 Traslado de heridos: El traslado de heridos al hospital deberá realizarlo el equipo de paramédicos designado, en caso de que no este presente podrá hacerlo el equipo de combate.
+
+4.12 Vehículos Operativos: El cuerpo de LSFD dispone de vehículos disponibles y listos para el servicio en el estacionamiento del departamento, estos incluyen al camión de bomberos principal (Seagrave Commander I y II), camioneta de emergencia (Bravado Bison S Brush Truck) designada para oficiales y paramédicos, y otros vehículos proyectados como camión de bomberos con escalera mecánica y helicóptero de emergencia.
+
+4.13 Se permite la colaboración entre EMS, LSPD y LSFD durante situaciones de emergencias, siempre que todas las partes respeten los procedimientos y funciones de cada departamento. No obstante, la LSPD no podrá imponer sanciones o detenciones al personal del LSFD por temas administrativos o cuestiones menores de protocolo mientras estén en una misión activa.
 
 ## 5. Normas Operativas
 
@@ -68,3 +75,7 @@
 5.3 Aviso en Alertas con civiles abatidos: en caso de acudir una alerta en la que haya civiles abatidos, heridos o inconscientes, se informará a las autoridades EMS y LSPD para que acudan al lugar lo antes posible.
 
 5.4 Orden de atención de alertas médicas con varios heridos: En situación con múltiples heridos, se priorizará la atención basada en la gravedad de las lesiones y se actuará de acuerdo con los protocolos establecidos para maximizar la eficiencia y efectividad del rescate.
+
+5.5 Evacuación de personal y civiles: Se establecerán protocolos para la evacuación de personal y civiles en situaciones de emergencia, incluyendo la coordinación con otros departamentos y agencias.\
+\
+&#xNAN;_&#x52;edactado por: Fernando O'Higgins | Comandante en jefe del LSFD_
