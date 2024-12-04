@@ -11,11 +11,11 @@
 
 ### Artículo 1
 
-Será acoso u hostigamiento cualquier situación que ocurra **DENTRO** del servidor de juego _(FiveM)_, DM Discord _(Miembros de comunidad)_ o los canales públicos del servidor Árkan en Discord.
+Será acoso u hostigamiento cualquier situación que ocurra **DENTRO** del servidor de juego _(FiveM)_, DM Discord _(Miembros de comunidad)_ o los canales públicos del servidor Distrito en Discord.
 
 ### Artículo 2
 
-Se consideran participantes todos los involucrados QUIENES PERTENEZCAN al servidor de Discord de Árkan.
+Se consideran participantes todos los involucrados QUIENES PERTENEZCAN al servidor de Discord de Distrito.
 
 ### Artículo 3
 
@@ -23,7 +23,7 @@ Toda información anexa u externa (evidencia u otros actuares) a los canales ant
 
 ### Artículo 4
 
-Bajo ningún concepto, Árkan (Ukader SpA) tomará acciones legales en nombre o en contra de cualquier usuario/moderador/administrador/miembro; únicamente nos reservaremos el derecho de admisión de los usuarios conflictivos, siempre y cuando no se demuestre lo contrario o perjudique íntegramente al desarrollo de la comunidad.
+Bajo ningún concepto, Distrito tomará acciones legales en nombre o en contra de cualquier usuario/moderador/administrador/miembro; únicamente nos reservaremos el derecho de admisión de los usuarios conflictivos, siempre y cuando no se demuestre lo contrario o perjudique íntegramente al desarrollo de la comunidad.
 
 ### Artículo 5
 
@@ -31,7 +31,7 @@ Dada la sensibilidad del asunto, se reservará su resolución de principio a fin
 
 ### Artículo 6: Roles sensibles
 
-Cualquier tipo de rol relacionado con acciones sexuales en mayor o menor grado deberá contar con el consentimiento OOC de todos los jugadores implicados en dicho rol.&#x20;
+Cualquier tipo de rol relacionado con acciones sexuales en mayor o menor grado deberá contar con el consentimiento OOC de todos los jugadores implicados en dicho rol.
 
 Este tipo de roles incluye el uso de animaciones +18, comandos "/me" y "/do", chat de voz y cualquier vía que permita este tipo de rol. Cualquier acto no consentido por alguna de las partes o cualquier intento de “troleo” será castigado, terminará en una sanción permanente y evidentemente en la cancelación del rol.
 
@@ -41,4 +41,4 @@ Los roles que impliquen una violación o abuso sexual están terminantemente PRO
 
 ### Artículo 8: Noob Abuse
 
-&#x20;Sacar provecho de jugadores nuevos con base en su poca o nula experiencia en rol queda PROHIBIDO.
+Sacar provecho de jugadores nuevos con base en su poca o nula experiencia en rol queda PROHIBIDO.
