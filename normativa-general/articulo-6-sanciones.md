@@ -26,7 +26,7 @@ Este requisito tiene como objetivo:
 
 Condiciones de la evidencia:
 
-* El video debe cubrir los momentos previos, durante, y posteriores al incidente para garantizar el contexto completo, es decir, 30 segundos en total repartidos de la siguiente manera, 15 segundos antes de y 15 segundos después.
+* El video debe cubrir los momentos previos, durante, y posteriores al incidente para garantizar el contexto completo, es decir, 30 segundos como **mínimo** repartidos de la siguiente manera, 15 segundos antes de y 15 segundos después.
 * El audio debe ser nítido y permitir identificar las interacciones relevantes (comunicaciones IC y OOC).
 * No se admitirán evidencias editadas o con fragmentos eliminados.
 
