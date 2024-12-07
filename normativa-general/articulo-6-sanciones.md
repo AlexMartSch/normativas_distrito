@@ -31,7 +31,7 @@ Condiciones de la evidencia:
 * No se admitirán evidencias editadas o con fragmentos eliminados.
 
 {% hint style="success" %}
-Esta normativa busca asegurar un ambiente justo y profesional en la resolución de conflictos dentro del servidor.
+Este requisito busca asegurar un ambiente justo y profesional en la resolución de conflictos dentro del servidor.
 {% endhint %}
 
 ## Aclaración de roles
