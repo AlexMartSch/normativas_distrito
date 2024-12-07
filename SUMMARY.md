@@ -25,7 +25,6 @@
     * [🏰 Cuarteles (HQ)](normativa-general/articulo-4-facciones/cuarteles-hq.md)
     * [🕵️‍♀️ Miembros](normativa-general/articulo-4-facciones/miembros.md)
     * [👮 Facción Policial](normativa-general/articulo-4-facciones/faccion-policial.md)
-    * [🏥 Facción EMS](normativa-general/articulo-4-facciones/faccion-ems.md)
     * [🚘 Facción Mecánicos](normativa-general/articulo-4-facciones/faccion-mecanicos.md)
   * [📙 Artículo 5 - Actos agresivos](normativa-general/articulo-5-actos-agresivos/README.md)
     * [👮 Actividad Policial/Otros](normativa-general/articulo-5-actos-agresivos/actividad-policial-otros.md)

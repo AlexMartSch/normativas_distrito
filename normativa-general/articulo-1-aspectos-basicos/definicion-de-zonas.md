@@ -61,3 +61,13 @@ Cuando se lleva a cabo un robo a un cuerpo abatido dentro de una Zona Roja, es c
 Es posible robar a oficiales abatidos, retirando todas sus pertenencias, excluyendo únicamente sus armamentos institucionales. Armamento LSPD: **Porra policial, taser, pistola de combate, linternas y tablet policial**. "**Tampoco se podrá retirar alimentos.**
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## Restricción de uso de barrios de bandas para escape
+
+Por normativa de _Rol de Entorno_, se prohíbe a los jugadores utilizar los territorios o barrios controlados por otras bandas o facciones como ruta de escape en situaciones que involucren persecuciones policiales, conflictos armados, o cualquier otro evento hostil.
+
+Esta restricción se establece con el objetivo de preservar la coherencia y realismo del entorno urbano, así como para evitar el uso indebido de zonas específicas del mapa sin justificación válida dentro del rol.
+
+{% hint style="danger" %}
+El incumplimiento de este punto conllevara una sanción.
+{% endhint %}
