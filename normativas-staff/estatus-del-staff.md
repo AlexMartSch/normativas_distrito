@@ -222,6 +222,32 @@ Remover los cargos de la infracción conlleva a la pérdida de las funciones pri
 * En caso de amonestar y/o advertir desde la tercera vez se podrá utilizar TEMP hasta 74h.
 * En caso de incumplimiento desde la sanción tercera, la cuarta sanción será PERM SIN APELACIÓN.
 
+## Articulo 28.12 Sobre la recopilación de evidencias y la validez de las sanciones
+
+#### Validez de las sanciones sin evidencias gráficas:
+
+* No es obligatorio que el equipo de staff genere evidencias gráficas para respaldar una sanción. La palabra de un moderador o administrador, basada en su criterio y el rol de confianza que ejerce, es suficiente para justificar una sanción, siempre y cuando esta sea reportada y validada por la dirección del servidor.
+* Además, las declaraciones de testigos confiables pueden ser consideradas como evidencia válida en ausencia de material gráfico.
+
+**Apelaciones:**
+
+* En caso de una apelación, el jugador sancionado debe presentar pruebas claras y verificables que respalden su refutación. La carga de la prueba recae en el jugador que solicita la revisión de la sanción.
+* Todas las pruebas presentadas en la apelación serán revisadas exhaustivamente por la dirección o un comité designado, garantizando la imparcialidad de la decisión.
+
+#### Supervisión de sanciones:
+
+* Siempre que un miembro del equipo sancione a un jugador, la dirección del servidor será informada y supervisará el caso. Esto permite garantizar que las sanciones aplicadas sean justas y alineadas con la normativa vigente.
+* Aunque este proceso minimiza los riesgos, reconocemos que la falta de evidencias gráficas puede llevar a malos entendidos. Por ello, el equipo debe actuar con la máxima profesionalidad y claridad en sus decisiones.
+
+#### Peso de las decisiones del equipo:
+
+* Las decisiones tomadas por un moderador o administrador, ya sea basadas en pruebas materiales, testigos o su palabra como miembro del staff, tienen plena validez y no serán cuestionadas sin una apelación formal respaldada por pruebas.
+* Los miembros del equipo deben garantizar que las sanciones sean proporcionadas y justificadas, siguiendo la normativa vigente y los valores del servidor.
+
+#### Comunicación con los jugadores:
+
+* Los moderadores y administradores deben mantener un tono respetuoso y profesional en todas las interacciones con los jugadores, explicando las razones detrás de una sanción y los pasos a seguir en caso de apelación.
+
 ## Artículo 29. Sobre las reuniones de información semanal <a href="#articulo-29.-sobre-las-reuniones-de-informacion-semanal" id="articulo-29.-sobre-las-reuniones-de-informacion-semanal"></a>
 
 * Al momento de redactar el documento, la fecha establecida para las reuniones de avance semanales conformadas por todo el equipo, tendrán a lugar los días DOMINGOS a las 19:40 PM.
