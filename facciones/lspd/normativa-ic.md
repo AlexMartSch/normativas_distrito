@@ -70,3 +70,24 @@ Recordar que todo esto son sanciones IC para los jugadores que sean parte de la 
 {% hint style="warning" %}
 **Toda decisión tomada queda a criterio del equipo de Asuntos Internos en conjunto a Alto - Medio Mando, así también como posibles agujeros en la normativa.**
 {% endhint %}
+
+> ## <mark style="color:blue;">\[ VI : Criterios de disparos en persecución ]</mark>
+
+* Descender del vehículo NO es motivo para realizar un disparo hacia el sujeto priorizando una persecución. (esto está sujeto a los demás criterios).
+* Podrán abrir fuego en situaciones de que el criminal emplee en contra de un LSPD o civil algún tipo de arma o la saque, en caso de persecución si el sujeto **muestra, apunta y/o usa** con el arma de fuego, este podrá ser pinchado.
+* Si el criminal, tras haber ya iniciado la persecución, realiza **mas de 3 saltos** (independiente, la altura, la velocidad la cual tomo este mismo o demás), los oficiales podrán pincharlo, **sin necesidad de previo aviso**.
+* Queda establecido como regla que LSPD en caso de dañar los vehículos durante una persecución **no podrá cambiar sus patrullas, únicamente repararlas**. (TALLER MECANICO, KIT DE REPARACIÓN). La única excepción es para equiparar al principio de la persecución el vehículo con el que se persigue.
+* En caso de **atropellar** a un civil o **colisionar** dejando **inconsciente** a los tripulantes, se permitirá abrir fuego.
+* En caso de que el vehículo de los criminales **acceda a un callejón** y el vehículo de LSPD **no pueda seguirlos**, LSPD podrá emplear abrir fuego **a las ruedas** siempre y cuando el vehículo de la LSPD sea de la **misma categoría** que el vehículo perseguido.
+* En el caso de una persecución en la que el delincuente logre escapar **burlándose de LSPD**, se permite el uso de armas de fuego después de que el criminal lo haga en una **segunda ocasión**. (Debe priorizar huida)
+* Si el criminal pasa por un camino **no delimitado** por el GPS por **10 segundos**, el oficial tendrá la facultad de abrir fuego (ejemplo: Cerros, vías del tren, etc).
+* Si el criminal conduce en **vía contraria** por al menos **30 segundos** de corrido (no acumulables), el oficial tendrá la facultad de abrir fuego.
+* Es **obligatorio** que el criminal responda cuando el oficial le pregunta **"¿Hacia que dirección va a salir?"** Y en base a la respuesta, se toma como negociación, el criminal si **desobedece esta orden** y criterio, LSPD puede abrir fuego
+* LSPD puede emplear armas de fuego cuando un criminal se **arroja al agua en medio de una persecución**. Si la persecución **inicia por el mar** se tendrá en cuenta el criterio establecido para una persecución corriente.
+* En el caso de que **otro vehículo se una** a la persecución, LSPD estará autorizada abrir fuego **a las ruedas** del tercer vehículo, con **1 advertencia** se podrá pinchar.
+* Si el sujeto provoca **daños a la carrocería** de la patrulla, con **clara intención** (Frenando en la cara o chocando) se podrá abrir fuego a las ruedas, **sin advertencia**.
+* LSPD podrá abrir fuego si el criminal **baja del vehículo para cambiarlo por otro** durante una persecución.
+* Si un criminal realiza algún **bloqueo** el oficial podrá abrir fuego **a las ruedas** del vehículo del criminal, esto contando a **3ros vehículos** añadidos a la persecución.
+* Si un criminal **conduce lento** después de la primera advertencia, se tomará que no prioriza la huida, por lo tanto quedará a incumplir algún criterio ya mencionado.
+* En situaciones en donde la LSPD **choque intencionalmente** al vehículo de un criminal o realice **disparos sin cumplir los criterios** previamente establecidos, dichas acciones pueden ser consideradas como conducta indebida y **puede ser denunciable**.
+* Si el criminal infringe con algún criterio establecido dentro de una persecución **LSPD podrá romper negociaciones**, por lo que LSPD **podrá utilizar los vehículos** anteriormente negociados.
