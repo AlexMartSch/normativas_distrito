@@ -65,6 +65,10 @@ El robo a yate no tiene negociación ni refuerzos. Los oficiales llegarán al lu
 * Tiempo de espera: Una vez se sale de zona roja, no se puede volver a ingresar a ella en 10 minutos.
 * Restricciones: Robo de comida y agua, robo de taser, robo de luma/linterna, Tablet.
 
+{% hint style="success" %}
+Nota: Las organizaciones delictivas pueden proveer las drogas a civiles y estos hacer de las suyas.
+{% endhint %}
+
 ## **Asaltos a policías**
 
 * Refuerzos: Restringido solo para los asaltantes, puede llegar un refuerzo igual a la cantidad de policías que fueron asaltados para iniciar negociaciones.
