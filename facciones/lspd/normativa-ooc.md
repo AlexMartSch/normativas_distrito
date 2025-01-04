@@ -62,23 +62,20 @@ Los bloqueos vehiculares, también conocidos como códigos 100, deben realizarse
 
 ### **Vehículos robos pequeños:**
 
-Robo Pequeño (MAX 2 DELINCUENTES EN MOTOCICLETA): Máximo 1 más que los delincuentes
+Robo Pequeño (MAX 2 DELINCUENTES **EN MOTOCICLETA**): Máximo 2 más que los delincuentes en robos pequeños.\
+\
+Siempre: **1 DELINCUENTE**
 
-Siempre: \
-1 DELINCUENTE \
-1 ADAM (2 oficiales) \
-1 MARY 1 UNION
+* 2 Mary (2 oficiales) + 1 UNION (1 oficial)
+* 2 Mary
 
-2 DELINCUENTES \
-1 MARY y 1 ADAM
+Robo Pequeño (MAX 2 DELINCUENTES **EN VEHÍCULO**):
 
-Robo Pequeño (MAX 2 DELINCUENTES EN VEHÍCULO):
+**1 DELINCUENTE**
 
-1 DELINCUENTE \
-1 ADAM (2 oficiales)
+* 1 ADAM (2 oficiales) + 1 UNION (1 oficial)
+* 1 ADAM (2 Oficiales)
 
-2 DELINCUENTES \
-1 ADAM 1 MARY\
 \
 Podrá asistir máximo tres oficiales a una alerta o persecución causada por venta de drogas o infracciones de tránsito.
 
