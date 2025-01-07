@@ -21,7 +21,12 @@ El tirador consiste en ser la persona que está habilitada para que en ciertos r
 ## Actividades ilícitas permitidas siendo civil
 
 * Robo a civiles
-* Robos a tiendas/licorerías
+* Robos a tiendas
+* Venta de drogas
+
+{% hint style="danger" %}
+En ningún caso podrán ser rehenes ficticios ni cómplices o amigos que colaboren con el robo.
+{% endhint %}
 
 {% hint style="info" %}
 Cabe aclarar que la cantidad máxima de civiles que pueden realizar el robo a licorerías son 2.
@@ -30,50 +35,60 @@ Cabe aclarar que la cantidad máxima de civiles que pueden realizar el robo a li
 ## Actividades ilícitas exclusivas de OD'S
 
 * Robo a ATM
-* Robos a sucursales bancarias
+* Robo a Growshop
+* Robos a Flecca
 * Robo a alta gama
+* Robo a camión blindado
+* Robo a Lifeinvader
 * Robo a joyería
 * Robo a yate
-* Robo a Humane
+* Robo a Pacific Bank
+* Robo a Humane Labs
 * Secuestros a oficiales
 * Secuestros a civiles
-* **Cosecha - Procesado - Venta de drogas o armas**
+* **Venta  de armas**
 * **Asaltos a policías**
-* **Grafitis**
 
 **Se adjunta tabla a continuación**
 
-<figure><img src="../../.gitbook/assets/tabla od&#x27;s.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Robo a yate
 
-El robo a yate no tiene negociación ni refuerzos. Los oficiales llegarán al lugar con su armamento correspondiente, lanzarán el GO tras una cuenta regresiva de 3 segundos y comenzará el tiroteo. Los delincuentes solo pueden intentar huir después de 15 minutos de haberse iniciado el tiroteo. Es importante tener en cuenta que al intentar huir, se les da la facultad a los oficiales de iniciar una persecución y abrir fuego si es necesario.
+El robo a yate no tiene negociación ni refuerzos. Los oficiales llegarán al lugar con su armamento correspondiente, lanzarán el GO tras una cuenta regresiva de 3 segundos y comenzará el tiroteo. Los delincuentes solo pueden intentar huir después de 15 minutos de haberse iniciado el tiroteo. Es importante recalcar que la LSPD esta en facultad de continuar el tiroteo mientras los asaltantes se dan a la fuga.
 
 ## Secuestro a oficiales
 
 * Refuerzo: Restringido solo para los asaltantes, puede llegar un refuerzo igual a la cantidad de policías que fueron asaltados para iniciar negociaciones.
-* Tiempo de espera: 30 minutos si fue exitoso, 15 minutos si no lo fue.
-* Restricciones: No se podrá tener a un oficial por más de 30 minutos secuestrada si no está justificada por un rol de importancia/peso, tampoco se podrá realizar roles de índole sexual a la persona secuestrada sin su consentimiento/rol preparado El rol de rehén podrá extenderse hasta una hora en caso se ser necesario.
+* Tiempo de espera: Después de 30 minutos puedes volver a realizar esta acción/rol.
+* Restricciones: No se podrá tener a un oficial por más de 30 minutos secuestrada si no está justificada por un rol de importancia/peso, tampoco se podrá realizar roles de índole sexual a la persona secuestrada sin su consentimiento/rol preparado El rol de rehén podrá extenderse hasta una hora en caso se ser necesario. Mencionar que el o los oficiales secuestrados no podrán reincorporarse al operativo.
 
 ## Secuestro a civiles
 
-* Tiempo de espera: 20 minutos si fue exitoso, 10 minutos si no lo fue.
+* Tiempo de espera: Después de 20 minutos puedes volver a realizar esta acción/rol.
 * Restricciones: No se podrá tener a una persona por más de 30 minutos secuestrada si no está justificada por un rol de importancia/peso, tampoco se podrá realizar roles de índole sexual a la persona secuestrada sin su consentimiento/rol preparado. El rol de rehén podrá extenderse hasta una hora en caso se ser necesario.
 
-## **Cosecha - Procesado - Venta de drogas o armas**
+## **Venta de drogas o armas**
 
-* Tiempo de espera: Una vez se sale de zona roja, no se puede volver a ingresar a ella en 10 minutos.
-* Restricciones: Robo de comida y agua, robo de taser, robo de luma/linterna, Tablet.
+* Tiempo de espera: Una vez se sale de la zona de venta, hay que esperar 10 minutos para volver a vender en la misma zona.
 
 {% hint style="success" %}
-Nota: Las organizaciones delictivas pueden proveer las drogas a civiles y estos hacer de las suyas.
+Las organizaciones delictivas pueden vender las drogas a civiles y estos hacer de las suyas.
 {% endhint %}
 
-## **Asaltos a policías**
+{% hint style="success" %}
+Las organizaciones delictivas solo podrán vender armas de bajo calibre a civiles.
+{% endhint %}
+
+{% hint style="danger" %}
+Cualquier organización que sea sorprendida vendiendo armas de mayor calibre a civiles será sancionada.
+{% endhint %}
+
+## **Asaltos a oficiales**
 
 * Refuerzos: Restringido solo para los asaltantes, puede llegar un refuerzo igual a la cantidad de policías que fueron asaltados para iniciar negociaciones.
-* Tiempo de espera: 20 minutos si fue exitoso, 10 minutos si no lo fue.
-* Restricciones: Robo de comida y agua, matar sin necesidad, robo de taser, robo de luma/linterna, Tablet.
+* Tiempo de espera: Después de 20 minutos puedes volver a realizar esta acción/rol.
+* Restricciones: Robo de comida y agua, matar sin necesidad, robo de taser, robo de luma/linterna, Tablet. Los oficiales asaltados no podrán reincorporarse al procedimiento.
 
 ## Guerras entre organizaciones criminales
 
@@ -81,12 +96,8 @@ Se puede llegar a la desmantelación de una organización delictual con esta nue
 \
 Calibre permitido: Todos los calibres permitidos, respetando las zonas definidas.\
 \
-Restricciones: Sólo se podrá declarar dicha guerra y realizar la misma los días Sábados desde 19:00 HRS hasta 22:00 HRS.&#x20;
+Restricciones: Coordinar con administración el inicio de dicho rol.&#x20;
 
 {% hint style="warning" %}
-**NO PUEDE INTERFERIR LSPD EN NINGÚN MOMENTO**
-{% endhint %}
-
-{% hint style="danger" %}
-En ningún caso podrán ser rehenes ficticios ni cómplices o amigos que colaboren con el robo.
+LA LSPD SOLO PODRA INTERFERIR A PARTIR DEL AVISO DE ADMINISTRACIÓN.
 {% endhint %}
