@@ -20,7 +20,5 @@ Los civiles (bandas/mafias/grupos organizados) pueden asaltar a la POLICÍA/EMS/
 ## Robo a otros
 
 * Se podrá robar únicamente pertenencias de inventario y objetos de valor que se consideren necesarios.
-* Los civiles pueden robar las tiendas solo con las siguientes armas:
-  * Armas de Mano (Bate, cuchillo, palanca, etc.)
-  * Pistolas.
-* Si usted roba un vehículo de NPC (vehículo de tránsito normal) deberá enviar una alerta en forma de "/entorno" a la policía.
+* En caso de presentar una denuncia por el robo de tu vehículo, esta denuncia solo tendrá validez hasta el próximo reinicio (Ya que sistemáticamente el vehículo vuelve al garaje).
+* Si usted roba un vehículo de NPC (vehículo de tránsito normal) deberá enviar una alerta en forma de "/forzar" a la policía.
