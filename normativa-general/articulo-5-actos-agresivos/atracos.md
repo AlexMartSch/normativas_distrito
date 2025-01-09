@@ -78,6 +78,10 @@ Las organizaciones delictivas pueden vender las drogas a civiles y estos hacer d
 {% endhint %}
 
 {% hint style="success" %}
+10 minutos después de vender droga pueden cambiar de ropa y de vehículo, lo que conlleva a que la LSPD no los puedan reconocer, debido a que el rol termina pasado 10 minutos.&#x20;
+{% endhint %}
+
+{% hint style="success" %}
 Las organizaciones delictivas solo podrán vender armas de bajo calibre a civiles.
 {% endhint %}
 
