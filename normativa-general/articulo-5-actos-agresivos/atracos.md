@@ -42,6 +42,7 @@ Cabe aclarar que la cantidad máxima de civiles que pueden realizar el robo a li
 * Robo a Lifeinvader
 * Robo a joyería
 * Robo a yate
+* Robo a tren
 * Robo a Pacific Bank
 * Robo a Humane Labs
 * Secuestros a oficiales
@@ -51,7 +52,7 @@ Cabe aclarar que la cantidad máxima de civiles que pueden realizar el robo a li
 
 **Se adjunta tabla a continuación**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ## Robo a yate
 
