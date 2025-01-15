@@ -1,46 +1,53 @@
 # 🤵‍♂️ Normativa OOC
 
-## I. Pre apertura
+## Representante Legal OOC
 
-**Se deberá pagar de manera ic el siguiente monto según el tipo de local:**
+* El representante legal debe ser un jugador sin historial de baneos.
+* El dueño del local puede estar asociado IC a una organización ilegal, pero debe acatar las consecuencias IC correspondientes.
 
-* Restaurantes: $500.000
-* Locales nocturnos: $500.000
-* Mecánicos: $750.000
-* Strip clubs: $500.000\
+## Responsabilidades del Staff y Arcadius C.C.
 
+1. **Control de actividad:**
 
-{% hint style="info" %}
-Los mecánicos podrán optar a un préstamo de $250.000, el cual deberán pagar durante 7 semanas y con %10 de interés. correspondiendo a la suma de $51.371 x semana.
-{% endhint %}
+* El staff verificará el cumplimiento de las normas IC mediante reportes y auditorías.
 
-### Representante legal
+2. **Strikes y cierres:**
 
-De manera ooc el representante legal puede ser cualquier jugador que no posea historial de baneos.
+* Cada infracción será contabilizada como un strike.
+* Con 3 strikes, el local será cerrado de forma permanente.
 
-{% hint style="warning" %}
-El dueño del local puede ser jefe o formar parte de alguna organización ilegal pero debe acatar las consecuencias ic que esto puede conllevar.
-{% endhint %}
+## Compromisos de Arcadius C.C
 
-## II. Responsabilidad post apertura
+1. **Herramientas iniciales:**
 
-**Actividad (Obligatoria):**
+* Garaje operativo.
+* Cerraduras listas.
+* Tablets de gestión.
+* 300 ingredientes iniciales.
+* Bono de inicio de $50.000 IC.
 
-* Mínimo de 3 aperturas semanales, con una duración mínima de una hora, en diferentes días.
-* 1 evento mínimo, ya sea flash o a gran escala, mensualmente (sin límite).
-* Se prohíben los miembros inactivos.
+2. **Asesoría:**
 
-### Uso de vehículos e instalaciones de la empresa
+* Resolución de dudas y problemas relacionados con el negocio.
+* Orientación en el uso de herramientas IC entregadas.
 
-* Los vehículos empresariales pueden ser usados para actos ilícitos, tomando siempre en cuenta las consecuencias que esto pueda conllevar de manera ic.
-* Se pueden utilizar las bodegas para guardar objetos ilícitos, tomando siempre en cuenta las consecuencias que esto pueda conllevar de manera ic.
+3. **Tramitación:**
 
-## III. Strikes y cierre
+* Apoyo en la gestión de licencias, permisos y modificaciones estructurales IC.
 
-* Cualquier infracción de estas normativas será un strike para la empresa. El local tendrá un máximo de 3 strike para su cierre.
-* En caso de fachadas (locales pertenecientes a bandas) podrán ser llamados a juicio por LSPD solo tras una investigación previa que demuestre con pruebas de manera ic que el local y sus trabajadores están siendo utilizados para actos ilícitos.
-* No está permitida la utilización de bugs del sistema de negocios, mecánicos, ni mapeo para beneficio personal o del local, esta infracción será penalizada con un strike y una penalización al jugador según criterio de staff.
+## Reglas de Uso y Penalizaciones OOC
 
-## IV. Aclaraciones
+1. **Uso indebido del sistema:**
 
-**Ningún jugador está exento de la normativa general del servidor, estas reglas es una extensión de la normativa general.**
+* Está prohibido utilizar bugs del sistema, mapeo o mecánicas de negocios para obtener ventajas.
+* Esta infracción será penalizada con un strike y una sanción OOC al jugador según el criterio del staff.
+
+2. **Manejo de quejas y reportes:**
+
+* Cualquier jugador puede reportar infracciones siguiendo el formato establecido en Discord.
+* El staff investigará y tomará decisiones basadas en pruebas claras.
+
+## Aclaraciones Generales
+
+* Esta normativa OOC complementa las reglas generales del servidor.
+* El staff se reserva el derecho de intervenir en situaciones ambiguas o que no estén contempladas aquí.

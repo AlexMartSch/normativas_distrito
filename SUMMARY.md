@@ -39,6 +39,7 @@
 ## 🏭 Facciones
 
 * [🏢 ARCADIUS](facciones/arcadius/README.md)
+  * [🤵‍♂️ Normativa IC (In-Character)](facciones/arcadius/normativa-ic-in-character.md)
   * [🤵‍♂️ Normativa OOC](facciones/arcadius/normativa-ooc.md)
 * [🚔 LSPD](facciones/lspd/README.md)
   * [👮 Normativa IC](facciones/lspd/normativa-ic.md)
