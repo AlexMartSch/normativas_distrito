@@ -26,7 +26,7 @@ En este apartado les presentamos el tipo de armamento permitido por zonas.
 
 ## Bajo de calibre <a href="#bajo-de-calibre" id="bajo-de-calibre"></a>
 
-* Pistola SNS <mark style="color:green;">**(Legal)**</mark>
+* Pistola SNS <mark style="color:green;">**(Legal**</mark><mark style="color:green;">**&#x20;**</mark><mark style="color:green;">**solo para guardias)**</mark>
 * Pistola 9mm <mark style="color:red;">**(Ilegal)**</mark>
 * Pistola MK2 <mark style="color:red;">**(Ilegal)**</mark>
 * Pistola Cerámica <mark style="color:red;">**(Ilegal)**</mark>
