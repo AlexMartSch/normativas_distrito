@@ -91,3 +91,9 @@ Recordar que todo esto son sanciones IC para los jugadores que sean parte de la 
 * Si un criminal **conduce lento** después de la primera advertencia, se tomará que no prioriza la huida, por lo tanto quedará a incumplir algún criterio ya mencionado.
 * En situaciones en donde la LSPD **choque intencionalmente** al vehículo de un criminal o realice **disparos sin cumplir los criterios** previamente establecidos, dichas acciones pueden ser consideradas como conducta indebida y **puede ser denunciable**.
 * Si el criminal infringe con algún criterio establecido dentro de una persecución **LSPD podrá romper negociaciones**, por lo que LSPD **podrá utilizar los vehículos** anteriormente negociados.
+
+> ## <mark style="color:blue;">\[ VII : Código penal ]</mark>
+
+Queda a disposición de toda la ciudadanía el código penal.
+
+{% embed url="https://docs.google.com/spreadsheets/d/1UkwHAn-zAOMpLFxyTdAjH9uMKJzUNm1m/edit?gid=1658458859#gid=1658458859" %}
