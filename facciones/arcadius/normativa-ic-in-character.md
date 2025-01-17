@@ -52,3 +52,7 @@
 * Incautación de objetos ilícitos a mediana (10-20) o gran escala(21 en adelante).(basado en el código penal)
 * Pruebas gráficas (fotos o vídeos).
 * Evidencia de participación del dueño o empleados en actividades ilícitas reiteradas (más de 5).
+
+{% hint style="warning" %}
+El domicilio (hogar) o sede de negocios es inviolable. Ninguna entrada o registro podrá hacerse en él, sin consentimiento del dueño o resolución judicial, salvo en caso de flagrante delito.
+{% endhint %}
