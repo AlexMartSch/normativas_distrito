@@ -4,8 +4,6 @@ description: 'Todo miembro de la policía deberá ser regido bajo las siguientes
 
 # 👮 Facción Policial
 
-Se adjunta con [articulo-5-actos-agresivos](../articulo-5-actos-agresivos/ "mention")
-
 {% hint style="info" %}
 Se entiende por 'Gobernación' al Administrador de facciones OOC.
 {% endhint %}
