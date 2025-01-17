@@ -97,3 +97,7 @@ Recordar que todo esto son sanciones IC para los jugadores que sean parte de la 
 Queda a disposición de toda la ciudadanía el código penal.
 
 {% embed url="https://docs.google.com/spreadsheets/d/1UkwHAn-zAOMpLFxyTdAjH9uMKJzUNm1m/edit?gid=1658458859#gid=1658458859" %}
+
+{% hint style="warning" %}
+El domicilio (hogar) o sede de negocios es inviolable. Ninguna entrada o registro podrá hacerse en él, sin consentimiento del dueño o resolución judicial, salvo en caso de flagrante delito.
+{% endhint %}
