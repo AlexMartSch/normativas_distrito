@@ -2,11 +2,6 @@
 
 Los civiles (bandas/mafias/grupos organizados) pueden asaltar a la POLICÍA/EMS/BOMBEROS/Otros para robarles, sin embargo, esto conllevará las consecuencias IC correspondientes.
 
-## Robo a POLICÍA
-
-* Únicamente se permite robar del inventario chalecos y balas. Se prohíbe el robo de Taser, porra u otras armas de cualquier tipo.
-* Prohibido robar vehículos, helicópteros de POLICÍA
-
 ## Robo EMS
 
 * Únicamente pertenencias de inventario y de llevar consigo, pastillas y vendajes.
