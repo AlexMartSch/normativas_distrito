@@ -94,8 +94,7 @@ Cualquier organización que sea sorprendida vendiendo armas de mayor calibre a c
 * Únicamente se permite robar del inventario chalecos y balas.&#x20;
 * Refuerzos: Restringido solo para los asaltantes, puede llegar un refuerzo igual a la cantidad de policías que fueron asaltados para iniciar negociaciones.
 * Tiempo de espera: Después de 20 minutos puedes volver a realizar esta acción/rol.
-* Restricciones: Robo de comida y agua, matar sin necesidad, robo de taser, robo de luma/linterna, Tablet, porra u otras armas de cualquier tipo. Los oficiales asaltados no podrán reincorporarse al procedimiento.
-* Prohibido robar cualquier tipo de vehiculo policial.
+* Restricciones: Robo de comida y agua, matar sin necesidad, robo de taser, robo de luma/linterna, Tablet, porra, armas de cualquier tipo y vehículos policiales. Los oficiales asaltados no podrán reincorporarse al procedimiento.
 
 ## Guerras entre organizaciones criminales
 
