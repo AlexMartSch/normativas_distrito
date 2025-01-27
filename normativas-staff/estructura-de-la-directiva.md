@@ -5,7 +5,8 @@
 * Directores
 * Administración
 * Moderadores
-* Roles Anexados
+* Soportes
+* Aspirantes
 
 ### Articulo 1.1&#x20;
 
