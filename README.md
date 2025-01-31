@@ -1,7 +1,7 @@
 ---
 description: >-
   Distrito Roleplay es un servidor diseñado para ofrecer una experiencia de
-  juego inmersiva y entretenida a través del rol serio.
+  juego inmersiva y entretenida a través del rol.
 ---
 
 # ✒️ INTRODUCCIÓN
